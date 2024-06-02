@@ -1,12 +1,12 @@
-CID_642_Athena_Commando_F_ConstellationStar, 1200
-Pickaxe_ID_363_LollipopTricksterFemale, 800
-Pickaxe_ID_179_StarWand, 3500
+ CID_674_Athena_Commando_F_HoodieBandit, 1000
+ CID_478_Athena_Commando_F_WorldCup, 4500
+Pickaxe_ID_033_PotOfGold, 2500
 na
 na
 na
-CID_650_Athena_Commando_F_HolidayPJ_B, 1200
-EID_Pump, 500
-BID_308_CyberKarateFemale, 300
-CID_715_Athena_Commando_F_TwinDark, 1200
-Glider_ID_176_BlackMondayCape_4P79K, 1200
-CID_387_Athena_Commando_F_Golf, 1200
+EID_CycloneHeadBang, 850
+CID_734_Athena_Commando_F_BannerRed, 800
+EID_Jaywalking, 1200
+ BID_167_RedKnightWinterFemale, 400
+Wrap_223_Fryangles, 200
+Glider_ID_090_Celestial, 5000
