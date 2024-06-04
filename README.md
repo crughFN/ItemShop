@@ -1,12 +1,12 @@
-CID_696_Athena_Commando_F_DarkHeart, 1500
-CID_753_Athena_Commando_F_Hostile, 1200
-Glider_ID_140_ShatterFly, 1200
+CID_412_Athena_Commando_F_Raptor, 2500
+CID_031_Athena_Commando_M_Retro, 2500
+Glider_ID_201_TNTinaFemale, 1500
 na
 na
 na
-CID_214_Athena_Commando_F_FootballReferee, 800
-Pickaxe_ID_044_TacticalUrbanHammer, 500
-Pickaxe_ID_122_Witch, 800
-Umbrella_PaperParasol, 500
-EID_TakeTheW, 500
-EID_JellyFrog, 500
+CID_493_Athena_Commando_F_JurassicArchaeology, 800
+HalloweenScythe, 800
+Pickaxe_ID_015_HolidayCandyCane, 1200
+Umbrella_Season_11, 500
+EID_CycloneHeadBang, 2800
+EID_JellyFrog, 200
