@@ -1,4 +1,4 @@
-CID_736_Athena_Commando_F_DonutDish, 1500
+CID_663_Athena_Commando_F_Frogman, 1500
 CID_737_Athena_Commando_F_DonutPlate, 1500
 Pickaxe_ID_020_Keg, 1200
 na
