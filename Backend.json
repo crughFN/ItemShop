@@ -25,7 +25,7 @@
     "price": 800
   },
   "featured1": {
-    "itemGrants": ["AthenaCharacter:CID_736_Athena_Commando_F_DonutDish"],
+    "itemGrants": ["AthenaCharacter:CID_663_Athena_Commando_F_Frogman"],
     "price": 1500
   },
   "featured2": {
