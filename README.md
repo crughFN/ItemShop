@@ -4,7 +4,7 @@ CID_748_Athena_Commando_F_Hitman, 800
 na
 na
 na
-Pickaxe_ID_134_Snowman, 5000
+Pickaxe_ID_134_Snowman, 500
 Umbrella_Snowflake, 800
 EID_WindmillFloss, 500
 EID_EngagedWalk, 200
