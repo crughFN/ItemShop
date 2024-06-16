@@ -6,7 +6,7 @@ na
 na
 EID_WalkieWalk, 500
 Pickaxe_ID_283_CODSquadPlaidMale, 500
-CID_370_Athena_Commando_M_EvilSuit, 200
+CID_370_Athena_Commando_M_EvilSuit, 2000
 BID_244_DarkVikingFire, 600
 Wrap_016_CuddleTeam, 0
 EID_Basketball, 1000
